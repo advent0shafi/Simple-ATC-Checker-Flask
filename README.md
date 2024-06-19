@@ -1,6 +1,6 @@
 Certainly! Here's the complete README content formatted in Markdown, which you can directly use in your `README.md` file:
 
-```markdown
+
 # Setting up Environment and Running Flask Framework
 
 This guide will walk you through setting up a virtual environment (`myenv`) and running a Flask application on macOS.
