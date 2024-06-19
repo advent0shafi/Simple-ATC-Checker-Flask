@@ -18,8 +18,8 @@ This guide will walk you through setting up a virtual environment (`myenv`) and 
 Clone your Flask project repository from Git if you haven't already:
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/advent0shafi/Simple-ATC-Checker-Flask.git
+cd Simple-ATC-Checker-Flask
 ```
 
 ### 2. Set up Virtual Environment
@@ -31,7 +31,7 @@ It's a good practice to use a virtual environment to isolate project dependencie
 Navigate to your project directory and create a virtual environment named `myenv`:
 
 ```bash
-cd /path/to/your/project
+cd Simple-ATC-Checker-Flask
 python3 -m venv myenv
 ```
 
@@ -93,5 +93,5 @@ deactivate
 ```
 
 
-Replace `<repository_url>` and `<repository_name>` with the actual URL and name of your repository. Also, ensure to specify the exact licensing terms or URL provided by "Advent0Shafi" in the "Licensing" section. This ensures clarity on how your project can be used by others.
+Replace `https://github.com/advent0shafi/Simple-ATC-Checker-Flask.git` and `Simple-ATC-Checker-Flask` with the actual URL and name of your repository. Also, ensure to specify the exact licensing terms or URL provided by "Advent0Shafi" in the "Licensing" section. This ensures clarity on how your project can be used by others.
 
