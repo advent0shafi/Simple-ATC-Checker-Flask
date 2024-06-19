@@ -92,4 +92,6 @@ deactivate
 
 ```
 
-Copy and paste this Markdown content into your `README.md` file. Replace placeholders like `<repository_url>`, `<repository_name>`, and adapt instructions (`app.py`, `myenv`, etc.) according to your specific project setup. This README provides a clear and structured guide for anyone setting up and running your Flask application on macOS.
+
+Replace `<repository_url>` and `<repository_name>` with the actual URL and name of your repository. Also, ensure to specify the exact licensing terms or URL provided by "Advent0Shafi" in the "Licensing" section. This ensures clarity on how your project can be used by others.
+
